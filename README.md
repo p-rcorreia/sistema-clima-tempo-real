@@ -1,41 +1,41 @@
-# Sistema de Informacoes Climaticas em Tempo Real
+# Sistema de Informações Climáticas em Tempo Real
 
-Projeto premium para consultar e exibir informacoes climaticas em tempo real, aplicando Java, JavaFX, JSON e integracao com dados externos.
+Projeto premium para consultar e exibir informações climáticas em tempo real, aplicando Java, JavaFX, JSON e integração com dados externos.
 
-## Repositorio
+## Repositório
 
 [sistema-clima-tempo-real](https://github.com/p-rcorreia/sistema-clima-tempo-real.git)
 
 ## Objetivo
 
-Criar uma aplicacao desktop que consulte dados climaticos de uma cidade e apresente as informacoes de forma clara.
+Criar uma aplicação desktop que consulte dados climáticos de uma cidade e apresente as informações de forma clara.
 
 ## Conceitos praticados
 
 - JavaFX
-- Requisicoes HTTP
+- Requisições HTTP
 - JSON
 - Tratamento de erros
-- Organizacao de camadas
-- Atualizacao de dados externos
-- Experiencia de usuario em aplicacao desktop
+- Organização de camadas
+- Atualização de dados externos
+- Experiência de usuário em aplicação desktop
 
 ## Funcionalidades planejadas
 
 - Buscar clima por cidade
 - Exibir temperatura
-- Exibir condicao climatica
+- Exibir condição climática
 - Exibir umidade e vento
-- Tratar cidade nao encontrada
-- Opcional: historico de buscas
+- Tratar cidade não encontrada
+- Opcional: histórico de buscas
 - Opcional: tela com visual mais elaborada
 
 ## Status
 
 Planejado.
 
-## Evidencias para portfolio
+## Evidências para portfólio
 
 - Screenshot da consulta funcionando
-- Video demonstrando busca por diferentes cidades
-- Explicacao sobre consumo de API e tratamento de JSON
+- Vídeo demonstrando busca por diferentes cidades
+- Explicação sobre consumo de API e tratamento de JSON
